@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers cruelty, deceit &amp; wickedness presented to the King and Parliament / by Thomas Boyce ; with a copy of the paper the Quakers put forth against me ; also my neighbours testimony, and Sir Richard Ingoldesby's certificate concerning me.</title>
+            <author>Boyce, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28923</idno>
+            <idno type="STC">Wing B3902</idno>
+            <idno type="STC">ESTC R23391</idno>
+            <idno type="EEBO-CITATION">12761543</idno>
+            <idno type="OCLC">ocm 12761543</idno>
+            <idno type="VID">93506</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93506)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 375:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers cruelty, deceit &amp; wickedness presented to the King and Parliament / by Thomas Boyce ; with a copy of the paper the Quakers put forth against me ; also my neighbours testimony, and Sir Richard Ingoldesby's certificate concerning me.</title>
+                  <author>Boyce, Thomas.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93506:1"/>
+            <pb facs="tcp:93506:1" rendition="simple:additions"/>
+            <p>THE Quakers Cruelty, Deceit &amp; Wickedneſs, Preſented to the KING and PARLIAMENT By <hi>Thomas Boyce.</hi>
+            </p>
+            <p>With a Copy of the PAPER the <hi>QUAKERS</hi> put forth againſt me. Alſo my Neighbours Te<g ref="char:EOLhyphen"/>ſtimony, and Sir <hi>Richard Ingoldeſby's</hi> Certificate concerning me.</p>
+            <q>The Bees may gather Honey out of a ſeeming Weed.</q>
+            <p>
+               <hi>London,</hi> Printed in the year, 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93506:2"/>
+            <pb n="3" facs="tcp:93506:2"/>
+            <div type="letter">
+               <head>To the King's Excellent Majeſty.</head>
+               <opener>
+                  <salute>Moſt Noble Worthy,</salute>
+               </opener>
+               <p>BE pleaſed to hear the Complaint of a poor man, whoſe name is <hi>Thomas Boyce,</hi> dwelling at <hi>Horſly-Down</hi> in <hi>Southwark,</hi> having complained to ſome of your Ma<g ref="char:EOLhyphen"/>jeſties Juſtices of the Peace concerning ſome wrong which I have received by ſome of the People called <hi>Quakers.</hi> Whereupon ſome of the Chiefeſt of them have, as I under<g ref="char:EOLhyphen"/>ſtand, ſecretly ſignified to the Juſtices, as well as to others, That I am infected with the diſtemper of Madneſs and Di<g ref="char:EOLhyphen"/>ſtraction, but have left out the cauſe; and by reaſon thereof have ſtopped, as much as in them lieth, the very current and ſtream of Juſtice. Now foraſmuch as they have told the Diſtemper, be pleaſed to give me the liberty to tell your Ma<g ref="char:EOLhyphen"/>jeſty ſomething of the Cauſe. For it is poſſible that it may be an infectious Diſtemper, and if I ſhould conceal it, I may conceal Treaſon unawares. I having heretofore expo<g ref="char:EOLhyphen"/>ſed my ſelf to the diſpleaſure of my former Acquaintance and Relations to be a <hi>Quaker,</hi> and was one of them above ten years, then believing their ways to be the beſt; during which time I was true to what I profeſt. But finding ſome of the Heads, as well as others of them, contrary to their Prin<g ref="char:EOLhyphen"/>ciples, I was willing to tell them of their Error: who fell upon me by way of threatning, with great and terrible words; which cauſed a trouble upon my mind: and about <hi>June</hi> laſt was twelvemonth I was taken in a ſtrange manner, to the amazement of them that ſaw me, it being amongſt ſeveral hundreds of the people called <hi>Quakers:</hi> Whereupon ſome of them cryed out, <hi>Deceit,</hi> and it was ſaid that I was made a
+<pb n="4" facs="tcp:93506:3"/> publick ſign for my wickedneſs. After which time my ſpeech was taken from me, and I continued ſpeechleſs 33 weeks together; only ſome few words I might ſpeak for a week or two, which they that were with me, could not tell what I meant; and for five weeks together I could eat no food at all, only drank Water; neither was it perceived that I had any ſleep during that time; neither do I know all the 33 weeks I was at all ſick. The cauſe of which I humbly conceive is your Majeſties conern to inquire into. Where<g ref="char:EOLhyphen"/>fore I am willing to lay this before you, and it is without the advice of any, to ſignifie my duty towards God, my obedi<g ref="char:EOLhyphen"/>ence to your Majeſty, and my love to my Neighbour: which duty is faithfulneſs that the Lord requireth. He that is not faithful to his God, cannot be faithful to his King, nor true to his Neighbour. And if I ſhould prove ſome of the Heads of the <hi>Quakers</hi> to be guilty of Unfaithfulneſs in the matter aforeſaid, then I hope your Majeſty will not blame me.</p>
+               <p>Now as concerning my own Diſtemper, it is <hi>Poverty,</hi> which they have brought upon me, by taking away my good name, who before did help relieve them, but now I am not able to help my ſelf. Concerning which diſtemper one <hi>Wil<g ref="char:EOLhyphen"/>liam Pen, George Whitehead,</hi> and <hi>Thomas Rudyard</hi> did pro<g ref="char:EOLhyphen"/>miſe upon Condition to cure, which Condition I am not willing to perform: but if I do, I believe I ſhould be an un<g ref="char:EOLhyphen"/>done man for ever. And therefore I had rather be as I am, than betray my truſt. Now I do beſeech your Majeſty would be pleaſed to grant, That thoſe perſons called <hi>Quakers,</hi> or ſuch of them as are chiefly concern'd either in violating your Laws by Threatning, or otherwiſe broak the Com<g ref="char:EOLhyphen"/>mands of God, (whoſe Miniſter I am ſatisfied you are) and have or ſhall pretend in the Name and Authority of Him who is God and Lord over all the whole World, contrary to your knowledg, privity or conſent, take upon them to give Judgment in any cauſe, matter or thing whatſoever, may
+<pb n="5" facs="tcp:93506:3"/> come before ſuch as your Majeſtie ſhall think fit and allow of to anſwer the ſame, and I with them may be face to face, and be permitted to declare my knowledg without any in<g ref="char:EOLhyphen"/>terruption; and what Evidence concerning the ſame, may be brought alſo: and then your Majeſty may know whether theſe high-talking <hi>Quakers</hi> are in the Error or not; and then you may have an underſtanding who is the Seer, and who is the Blind, and ſo it may be known who is moſt mad, my Accuſers the Rich, called <hi>Quakers,</hi> or the Poor man by name, and your Majeſties poor Subject,</p>
+               <closer>
+                  <signed>Thomas Boyce.</signed>
+                  <dateline>The Copy of the aboveſaid was delivered by me into the King's own hand <date>the 25th of <hi>April</hi> 1675.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>To the Honorable,</hi> The Lords and Commons aſſembled in Parliament.</head>
+               <p>IN Obedience to his Majeſty, I did ſignifie to him my Duty towards God, whoſe Miniſter I am ſatisfied he is; a Title indeed worthy of double honour: I mean no other God than he who is GOD AND LORD OVER ALL THE WHOLE WORLD. The reaſon why I uſe ſuch expreſſions is, becauſe there is a people called <hi>Quakers,</hi> ſome of the heads of them have got an Imaginary God in their own Comprehenſion, which goeth about to dethrone him the true God, before mentioned, if it were poſſible ſo to do; and thereby may deceive the whole World. Now I am both willing to ſignify my Love to my Neighbours, and lay it before you who are cheifly con<g ref="char:EOLhyphen"/>cerned therein in their behalfe; which Love, as aforeſaid, is the Com<g ref="char:EOLhyphen"/>mand of God. <hi>NOBLE WORTHIES,</hi> be pleaſed to hear and take notice of the words of a poor Man. I ſpeak not in flattery, nor by way of inſinuation, but the plain and naked truth of my heart; I have been under great Affliction for ſome years paſt, and not freed yet; the reaſon whereof is beſt known to the Lord: by which Affliction I have gained ſome underſtanding of his ways that I was ignorant of be<g ref="char:EOLhyphen"/>fore, which underſtanding I would not willingly <hi>loſe,</hi> neither would
+<pb n="6" facs="tcp:93506:4"/> I hide any thing from you which I apprehend is my Duty to make known. Theſe people, called <hi>Quakers,</hi> who pretend themſelves to be the <hi>SEERS,</hi> and all others that are out of their form and man<g ref="char:EOLhyphen"/>ner of dreſs, to be <hi>Blind;</hi> I would willingly prove them liars out of their own mouths, who tell people, <hi>they muſt be perfect, as God is perfect;</hi> which State of Perfection, (ſay they) muſt be witneſſed, before they go out of this World. And all that preach againſt this Doctrine of <hi>Perfection</hi> (they ſay) are the Devils Miniſters. Now be pleaſed to in<g ref="char:EOLhyphen"/>quire whether or not theſe men, or any of them which preach this Leſ<g ref="char:EOLhyphen"/>ſon to others, have ſuch Perfection, and whoſe Miniſters they are; for ſay they, <hi>the Tree is know by its Fruit.</hi> Now ſuch as are eſteemed the beſt of theſe (called <hi>Quakers</hi>) ſome particular of them have threatned to vex me, and called me <hi>Knave, Traitor,</hi> and <hi>Judas,</hi> and would have had me turned headlong down Stairs: and at another time ſome of them took me by the Leggs and dragged me down Stairs with my head on the ground, and had me towards the Street where ſome rude Boys were, then ſet me upon my Leggs: and I being ſcarce able to ſtand by reaſon of their abuſes; to excuſe themſelves, they gave out I was drunk, and ſent for a Counſtable to fetch me away, and would not give me a little water to waſh off the Blood which they had drawn from me. So if theſe be the practices of thoſe called the beſt, then will I leave it to your Honours to Judg what the worſt of theſe (called <hi>Qua<g ref="char:EOLhyphen"/>kers</hi>) are. Some of them have preſented a Paper to the King and Parlia<g ref="char:EOLhyphen"/>ment in the behalf of the people of God (as they call themſelves): it is ſaid, in the ſaid Paper, they cannot take an Oath for Conſcience-ſake, as they pretend, nor Swear at all in any eaſe. One of their Preachers, <hi>viz. Solomon Eccles,</hi> ſaid, <hi>Our Yea and Nay is more then Swearing in a Court of Judicature:</hi> and if ſo, be pleaſed to inquire why they do not take one anothers <hi>Yea</hi> and <hi>Nay,</hi> without ſubſcribing to their form, and acknowledging them to be the people of God, and that which they declare to be the truth and no other, their form is this, I <hi>A. B. do declare in the truth of my heart, in the fear of God, and before theſe</hi> (meaning the heads of the <hi>Quakers) his Faithful Witneſſes,</hi> or other<g ref="char:EOLhyphen"/>wiſe, <hi>in the preſence of God,</hi> or <hi>him that knoweth all things:</hi> and with<g ref="char:EOLhyphen"/>out ſuch or ſuch like declaration they will not permit any one to marry (as they call it) amongſt them, nor in ſome caſe will not lend Money without ſuch a ſubſcription. Now I will leave it to your conſideration whether this their Form be not an abſolute <hi>OATH.</hi> I ſpeak not this out of envy or prejudice to any, but only to diſcharge my own conſcience; for I do believe theſe People (what ever they may pretend)
+<pb n="7" facs="tcp:93506:4"/> ſet as little by the Law as they do by the Goſpel, or Goſpel-order; yet now they can cry up the Scriptures in words the moſt of all people, and can make uſe of the Law upon occaſion; for they told me (by their mouth <hi>George Whitehead</hi>) they would anſwer the Law, but have not yet anſwered me therein: he pretended in the <hi>Name of God to cut me down,</hi> and told me a few days before that a man ought to be heard be<g ref="char:EOLhyphen"/>for Judgment or Condemnation paſſed upon him in any Caſe whatever; and the ſaid <hi>George Whitehead</hi> ſaid, he muſt be true to his principles therein: yet nevertheleſs he would have me cut down without my be<g ref="char:EOLhyphen"/>ing heard. So that he hath not only proved himſelf a Lyar, but alſo a Blaſphemer, if he cannot prove his <hi>Authority</hi> for ſo doing from God. Alſo be pleaſed to take notice of <hi>John Boulton,</hi> one of the called <hi>Faith<g ref="char:EOLhyphen"/>ful Witneſſes</hi> before mentioned, who pretends to be a <hi>Seer,</hi> and the mouth of the eternal God, for that he the ſaid <hi>John Boulton</hi> did cauſe to be brought before him (and ſome others who pretended themſelves to be Judges) a Woman and her Son, being of their own Society, and ac<g ref="char:EOLhyphen"/>cuſed them of lying together and being unclean; what proof they had for their uncleanneſs I know not; nevertheleſs <hi>John Boulton,</hi> did paſs Judgment that they were unclean, and one of his Brethren <hi>Thomas Pad<g ref="char:EOLhyphen"/>ley</hi> ſaid, <hi>If the World ſhould know of it, they would be both hanged.</hi> I underſtanding thereof went to the ſaid <hi>John Boulton</hi> to deſire him to hear what I could ſay in the matter, being fully ſatisfied that he had given wrong Judgment, but inſtead of regarding me therein, he the ſaid <hi>John Boulton</hi> Judged me <hi>unclean</hi> alſo: Afterwards the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> preferred a Laſs to this Young-Man (who was ſo judged unclean) and joyned them together as Man and Wife, according to their form above expreſſed. As to the particular of marrying, ſhe proving her ſelf not like a Wife; I acquainted ſome of the heads of the <hi>Quakers</hi> there<g ref="char:EOLhyphen"/>with, one of them, <hi>viz. Walter Miers,</hi> who was chiefly concerned in the putting them together, did acknowledg he had known her long to be a wild Laſs; and one <hi>Thomas Biddle,</hi> ſaid ſhe was of a bewitching Spirit, and a depth of deceit, and that ſhe had deceived a Servant of his (which Servant (he ſaid) cried out ſhe had undone him, and ſoon after he died); and further T. B. ſaid, he feared ſhe would prove a Whore; ſo they were willing to let her have a Husband, fearing leſt ſhe ſhould bring a diſhonour upon the Truth, as they call'd it. Upon occaſion afterwards, being urged thereto by the ſaid <hi>Walter Mires</hi> and the ſaid <hi>Thomas Biddle</hi> and ſome others, I ſaid ſhe was not his Wife (meaning no otherwiſe than that ſhe was not a good Wife, as I did then and there expreſs my ſelf;) notwithſtanding the <hi>Quakers</hi> ſeemed
+<pb n="8" facs="tcp:93506:5"/> to make a wilful miſtake of thoſe my words, as if thereby I would have had them parted, which the Lord can witneſs for me I had no ſuch thought. All which I leave to your Honours to judg of, and by <hi>this</hi> and the <hi>two Mouths,</hi> to wit, <hi>George Whitehead</hi> and <hi>John Boulton,</hi> you may underſtand what I mean by their <hi>Imaginary God,</hi> and the <hi>Seer,</hi> and the <hi>Blind</hi> before mentioned. And you may alſo underſtand that the <hi>Quakers</hi> have put forth a Paper againſt me, which I deſire may be called in, for they can prove nothing true of what they have therein aſ<g ref="char:EOLhyphen"/>ſerted againſt me. It is granted, after I had been at their private-houſes and their private-meetings, I did go to their publique Aſſemblies, where<g ref="char:EOLhyphen"/>by they pretended I diſturbed them: the reaſon of my going was to know what was the deceit and wickedneſs they had accuſed me of, and wherein I was unclean. But inſteed of giving me Satisfaction therein, ſome of the <hi>Quakers</hi> there met, laid violent hands upon me to force me out of their Meeting, ſome taking me by the Throat, others thruſting their Elboes on my breaſt, and ſome thruſting me upon my Belly even ready to take away my Breath, ſo that I could have no Right done me, neither in private nor in publick. After a year and half's Suffering in this nature, I went to <hi>William Penn</hi> to aſke him what was the rea<g ref="char:EOLhyphen"/>ſon why he concerned himſelf to tell the People in a Publick Auditory as he had ſeveral times done, biding them <hi>heed not what I ſaid, for I was diſtracted:</hi> but left out the Cauſe. He told me he did not know the Cauſe; and after he had by me underſtood the cauſe, did grant I had wrong, whereupon he ſet a time apart on purpoſe to do me Right, and did come to me, and deſired me to conceal the wrongs I received from Friends (meaning the <hi>Quakers</hi>) and let all die, becauſe, ſaid he, if the World ſhould know thereof, our enemies may take advantage againſt us, naming one <hi>Hicks,</hi> who he feared moſt, as I ſuppoſe: which I ſhould willingly have done, and imbraced his and <hi>George Whithead's</hi> reward (which was that they would take Care that I ſhould be provided for) if it had not been for wronging of my own Conſcience. But if I had ſo done, <hi>Tho. Padleys</hi> words would have proved true, and I ſhould have been as he ſaid of me, <hi>viz.</hi> a <hi>Knave,</hi> a <hi>Traitor,</hi> and a <hi>Judas:</hi> and that might have vexed me for ever, and for ever. But I not anſwering <hi>Wil<g ref="char:EOLhyphen"/>liam Penns</hi> deſire therein, the <hi>Quakers</hi> dealings to me have been worſe then before, which may appear, if permitted by your Honors to have a hearing thereof, in the behalf of him, who is not only his Majeſties poor Subject, but his and your Honors faithful Servant to the utmoſt of my Power to ſerve my Generation till Death,</p>
+               <closer>
+                  <signed>Thomas Boyce.</signed>
+               </closer>
+            </div>
+            <div type="paper">
+               <pb n="9" facs="tcp:93506:5"/>
+               <head>This following is the Copy of the Paper the <hi>Quakers</hi> put forth againſt me, and diſperſed ſeveral of them to the Worlds People, as they call them.</head>
+               <p>VVHereas <hi>Thomas Boyce,</hi> by Trade a Taylor, dwelling in <hi>Horſy-Down</hi>-ſtreet, hath for ſome time paſt come to the Meetings and Aſſemblies of the People of God called <hi>Quakers,</hi> whereby his reſorting to the ſaid Peoples Meetings hath given occaſion to ſome to judg and believe that he is in Fellowſhip and Unity with them.</p>
+               <p>But for the Information of all people by whom he may be ſo thought and judged, We the People aforeſaid having had a good ſence and diſcerning of the Converſation and Spirit whereby he is guided, that it is not according to the Spirit of Truth and Righteouſneſs, but rather of an unſet<g ref="char:EOLhyphen"/>led envious Ranting Spirit, Do therefore give forth this our Teſtimony, that we have not, nor never had Unity with that Spirit by which he is led and acted; but do now, and ever ſhall declare, That we have no more Fellowſhip with him and ſuch as he is, than Light hath with Darkneſs, or Truth with Error, unleſs true and unfeigned Repentance be wit<g ref="char:EOLhyphen"/>neſſed; which is our deſire he may be found in, before he goes hence, and be no more ſeen.</p>
+               <closer>
+                  <dateline>Given forth by the People called <hi>Quakers,</hi> at their Meet<g ref="char:EOLhyphen"/>ing at <hi>Horſie-Down,</hi> 
+                     <date>the fifth day of the ſixth month, called <hi>Auguſt,</hi> 1674.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="10" facs="tcp:93506:6"/>
+               <head>Some of my Neighbours being ſenſible the <hi>Quakers</hi> had a<g ref="char:EOLhyphen"/>buſed and wronged me, gave forth this following Cer<g ref="char:EOLhyphen"/>tificate concerning me.</head>
+               <p>THeſe are to certifie all whom it may concern, that <hi>Thomas Boyce</hi> is an Inhabitant of the Pariſh of St. <hi>Olave</hi> in <hi>Southwark</hi> in the County of <hi>Surry,</hi> and by Trade a Taylor, living on the place known by the name of <hi>Horſly-Down,</hi> near the Alley called by the name of <hi>Prich<g ref="char:EOLhyphen"/>ets-Alley,</hi> above the term often years. Concerning which foreſaid <hi>Thomas Boyce,</hi> we whoſe names are here under-written do teſtifie, That he is both an honeſt Man, and a peaceable Liver in the place where he dwells, and alwayes, when able, was a laborious man in his Calling, taking care to maintain his Family decently, according to the beſt of our obſervations; and makes conſcience of what he does and ſayes, ſo far as we know. Further, we the ſaid under-written Witneſſes, do teſtifie that the ſaid <hi>Thomas Boyce</hi> was lately under the afflicting hand of God in a ſtrange manner, being taken dumb, and could not ſpeak; and ſo conti<g ref="char:EOLhyphen"/>nued in a weak diſtracted condition for ſome months, and all that while uncapable of working; whom now the Lord hath been graciouſly pleaſ<g ref="char:EOLhyphen"/>ed to reſtore again; to him alone be the glory. And and all this we teſtifie by knowledg of the truth hereof upon our words, as we are ho<g ref="char:EOLhyphen"/>neſt men. In witneſs whereof we have hereunto ſubſcribed our names <hi>July</hi> 1. 1674.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Luke Talbut,</hi>
+                        </item>
+                        <item>
+                           <hi>Bartholomew Colling<g ref="char:EOLhyphen"/>wood,</hi>
+                        </item>
+                        <item>
+                           <hi>John Stacy,</hi>
+                        </item>
+                        <item>
+                           <hi>John Johnſon,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Mewſe,</hi>
+                        </item>
+                        <item>
+                           <hi>Francis Aldwin,</hi>
+                        </item>
+                        <item>
+                           <hi>John Bembridge,</hi>
+                        </item>
+                        <item>
+                           <hi>Samuel Wier,</hi>
+                        </item>
+                        <item>
+                           <hi>William Richardſon,</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Tuder,</hi>
+                        </item>
+                        <item>
+                           <hi>Leonard Hoare,</hi>
+                        </item>
+                        <item>
+                           <hi>William Wickins,</hi>
+                        </item>
+                        <item>
+                           <hi>George Hamton.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="11" facs="tcp:93506:6"/>
+               <head>Here follows Sir <hi>Richard Ingoldesby's</hi> Certificate.</head>
+               <p>THeſe are to certifie all whom it may con<g ref="char:EOLhyphen"/>cern, that the bearer hereof <hi>Thomas Boyce</hi> was heretofore a Servant to my Father Sir <hi>Richard Ingol<g ref="char:EOLhyphen"/>desby,</hi> Knight, ſo long as my ſaid Father lived, and afterwards to my Mother, in all about twelve or fourteen years: all which time he was honeſt and faithful, ſo far as I know or believe, in the Truſt re<g ref="char:EOLhyphen"/>poſed in him; which Truſt was very great. In Te<g ref="char:EOLhyphen"/>ſtimony whereof I have hereunto ſet my hand this 26th of <hi>Aprill</hi> 1675.</p>
+               <closer>
+                  <signed>Ri. Ingoldesby.</signed>
+               </closer>
+            </div>
+            <div type="conclusion">
+               <p>What hath been done by me in publiſhing theſe things, I was con<g ref="char:EOLhyphen"/>ſtrained thereto without the advice or counſel of any: for none can give me a better underſtanding in this my concern than I have in my ſelf. The chiefeſt of all the <hi>Quakers,</hi> viz. <hi>George Fox,</hi> was with me twice in my Affliction, who ſaid both then and ſince, he did believe I would have ſpoke to him if I could; and though he had formerly decla<g ref="char:EOLhyphen"/>red <hi>he had power to bind and to looſe whom he pleaſed,</hi> yet could not, or at leaſt did not unlooſe my tongue, or help me out of my Affliction. O<g ref="char:EOLhyphen"/>thers of their Miniſters ſaid, I might have ſpoke if I would, (in the ſaid time of my being ſpeechleſs) which was not only an abſolute untruth, but alſo a contradiction to <hi>George Fox</hi> aforeſaid. And ſince my ſpeech was reſtored me, I complained to ſome of the Magiſtrates of the wrong and Injury I had received from ſome of the ſaid people: whereupon <hi>Tho<g ref="char:EOLhyphen"/>mas
+<pb n="12" facs="tcp:93506:7" rendition="simple:additions"/> Rudyard</hi> told one of the ſaid Magiſtrates, that he believed that I was a Diſſembler, and pretended my ſelf to be Madd and Dumb, and might have ſpoke if I would, and told me ſince that the Magiſtrate be<g ref="char:EOLhyphen"/>lieved what he ſaid; and <hi>William Meade</hi> alſo informed them, that I was a diſtracted man, and alſo produced a Letter from one of the ſaid Magiſtrates to the other, which <hi>James Parkes</hi> (one of their Miniſters) told me he ſaw, which I apprehend was the cauſe of my then proceed<g ref="char:EOLhyphen"/>ings being ſtopt. Time would fail to relate what I have undergone concerning the things herein contained, and I am ſatisfied, whatever theſe people may pretend againſt me to cover themſelves, they know they have done me much wrong, and that by theſe their dealings they have given occaſion to other ſorts of people (as well as their own) to believe that I am not only a diſtracted man, but likewiſe guilty of great wickedneſs: by which falſe ſuggeſtions they have ſhut up the hearts of moſt againſt me, and thereby endeavoured, and do ſtill what in them lyes, to hinder me from having any Food to eat, or Clothes to put on, or to provide for my Family: and one of them lately pronounced the curſe of God upon me, my Wife and Children, as others of them had done to me before. However I have been made able to bear it all, neither have I fainted yet, and doubt not but a time will come when it will be known to all people <hi>What,</hi> and for <hi>What,</hi> and <hi>whoſe</hi> wickedneſs I was made a ſign of: which is already known to the Judg of all the whole World, who is the <hi>Right Honorable</hi> and ever <hi>Renowned Worthy,</hi> worthy of all praiſe for ever.</p>
+            </div>
+            <byline>By me <hi>T. B.</hi>
+            </byline>
+            <epigraph>
+               <q>How I became Dumb, or how my Tongue became to be bound, that is the Queſtion: but how it was unlooſed is without Queſtion, for I am ſatisfied it was the Lords doing alone.</q>
+               <q>
+                  <hi>Shall not the Judg of all the Earth do Right?</hi>
+               </q>
+            </epigraph>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:93506:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
